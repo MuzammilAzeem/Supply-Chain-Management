@@ -9,8 +9,7 @@ This project aims to analyze supply chain data to uncover patterns in sales, inv
 - 
 ## SQL
 
--- Sales by purchase method 
-#
+-- Sales by purchase method /
 SELECT `Purchase Method`, COUNT(*) AS total_sales
 FROM f_sales as f
 JOIN d_store as d ON f.`Store Key` = d.`Store Key`
