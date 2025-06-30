@@ -31,5 +31,7 @@ This project aims to analyze supply chain data to uncover patterns in sales, inv
     ## How to run 
   Download the required applications to run the files, such as SQL workbench, Power BI (Public), Tablue(Public).
   Run the files provided and done.
-  ## Contct
-  https://www.linkedin.com/in/muzammil-azeem/  |  aeemmuzammil786@gmail.com
+  ## 📊 Power BI Dashboard Preview
+
+![Power BI Dashboard](PowerBI_Screenshots/Healthcare_Analysis_Report.png)
+
