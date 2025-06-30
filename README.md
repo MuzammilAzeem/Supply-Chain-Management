@@ -33,5 +33,5 @@ This project aims to analyze supply chain data to uncover patterns in sales, inv
   Run the files provided and done.
   ## 📊 Power BI Dashboard Preview
 
-![Power BI Dashboard](Images/Power_BI_dash_ Supply_Chain.png)
+![Power BI Dashboard](Images/Power_BI_dash_ Supply_Chain.png).
 
