@@ -94,6 +94,5 @@ ORDER BY average_cost DESC;
 
 ![Power BI Dashboard](Images/Power_BI_dash_ Supply_Chain.png)
 
-## TABLEAU Dashboard Preview
-![Tableau Dashboard](Images/Healthcare_Analysis_report_Tablue.png)
+
 
