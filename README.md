@@ -92,7 +92,7 @@ ORDER BY average_cost DESC;
   
   ## 📊 Power BI Dashboard Preview
 
-![Power BI Dashboard](Images/Power_BI_dash_ Supply_Chain.png)
+![Power BI Dashboard](Images/Power_BI_dash_Supply_Chain.png)
 
 
 
